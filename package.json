@@ -1,17 +1,16 @@
-
 {
-"name": "joker8899net",
-"theme": "joker8899net",
-"version": "4.1.6",
-"description": "joker8899net สมัครสมาชิกเว็บไซต์สล็อตเว็บตรง ระบบออโต้ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"joker8899net",
-"joker8899net เครดิตฟรี",
-"joker8899net ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/joker8899net",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "joker8899net",
+  "theme": "joker8899net",
+  "version": "4.2.0",
+  "description": "joker8899net สมัครสมาชิกเว็บไซต์สล็อตเว็บตรง ระบบออโต้ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "joker8899net",
+    "joker8899net เครดิตฟรี",
+    "joker8899net ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/joker8899net",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
